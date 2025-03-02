@@ -1,0 +1,2 @@
+# lazyscripts
+mah lazy scritps
